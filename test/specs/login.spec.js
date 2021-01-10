@@ -28,3 +28,4 @@ describe('Local Coding Link', () => {
         browser.pause(3000);
     })
 });
+
