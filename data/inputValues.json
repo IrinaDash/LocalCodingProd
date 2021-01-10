@@ -1,0 +1,25 @@
+{
+  "names": {
+    "symbol1": "T",
+    "symbols10": "Tamerlanov",
+    "symbols20": "Tamerlanovtamerlanov",
+    "symbols21": "Alessandro-Constantin",
+    "digitsOnly": "123",
+    "apostrophe": "'",
+    "dash": "-",
+    "specialChar": "!@#$%"
+  },
+  "email": {
+    "letters": "Tom@gmail.com",
+    "lettersDigits": "Tom007@gmail.com",
+    "letterDigitsSpecChar": "Tom007!$%@gmail.com",
+    "oneLetter": "T@gmail.com",
+    "oneDigit": "1@gmail.com",
+    "oneSpecChar": "$@gmail.com",
+    "withoutDot": "$@gmailcom",
+    "withoutAt": "$2gmail.com",
+    "withoutDot2": "Tom.a@gmailcom",
+    "extraDot": "Tom.@gmail.com"
+  }
+}
+
